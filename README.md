@@ -15,8 +15,11 @@ We provide documentation to help you craft or modify presets for Rad TV [here](h
 
 We welcome contributions from the community to improve or expand our preset library! Whether you're fixing issues or adding support for new codecs, formats, or platforms, your contributions are highly appreciated.
 
-### How to Contribute:
-1. **Identify an issue or propose a new preset**: If you find a problem with the existing presets or want to introduce additional ones (e.g., for different codecs or platforms), modify the corresponding `presets.json` file.
+### Not Familiar with Video Encoding or GitHub?
+If you're not comfortable with video encoding or using GitHub, but have ideas or requests for new presets or features, feel free to open an issue! Our team and community are happy to assist in bringing your suggestions to life.
+
+### How to Directly Contribute:
+1. **Identify an issue, help solve an open issue, or propose a new preset**: If you find a problem with the existing presets, want to help solve an open issue, or want to introduce additional presets (e.g., for different codecs or platforms), modify the corresponding `presets.json` file.
 2. **Submit a Pull Request**: Once you've made your changes, submit a pull request for review.
 3. **Wait for Review and Approval**: Once your pull request is submitted, it will be reviewed. If the changes are approved, they will be merged into the repository.
 
