@@ -2,7 +2,7 @@
 
 Welcome to the official repository for **Rad TV's custom HandBrake presets**! These presets are designed to help users encode videos compatible with the various platforms and players used across our apps. By using these presets, you can ensure that your video content works seamlessly within the technical limitations of each platform.
 
-[HandBrake](https://handbrake.fr/) is a popular and user-friendly tool for re-encoding videos, ideal for beginners and experienced users alike. Although [ffmpeg](https://www.ffmpeg.org/) is another powerful option, its steeper learning curve makes HandBrake a better choice for most users. To assist with this, we are also providing additional tips and resources to help you get the most out of HandBrake.
+[HandBrake](https://handbrake.fr/) is a popular and user-friendly tool for re-encoding videos, ideal for beginners and experienced users alike. Although [ffmpeg](https://www.ffmpeg.org/) is another powerful option, its steeper learning curve makes HandBrake a better choice for most users.
 
 ## Documentation
 
